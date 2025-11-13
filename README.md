@@ -1,4 +1,4 @@
-# 基于深度融合的中文有害Meme检测系统
+# 基于深度融合的中文UGC多模态智能审核系统
 
 本项目是对 [DUT-lujunyu/ToxiCN_MM](https://github.com/DUT-lujunyu/ToxiCN_MM) 项目的改进与增强。
 
@@ -40,3 +40,4 @@
 ## 致谢
 
 感谢 [ToxiCN_MM](https://github.com/DUT-lujunyu/ToxiCN_MM) 的作者们提供了出色的基线工作和数据集。
+
